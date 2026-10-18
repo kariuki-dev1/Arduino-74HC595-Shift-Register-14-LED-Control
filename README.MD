@@ -1,4 +1,4 @@
-# Arduino 74HC595 Shift Register – 16 LED Control
+# Arduino 74HC595 Shift Register – 14 LED Control
 
 ## 📌 Project Overview
 
